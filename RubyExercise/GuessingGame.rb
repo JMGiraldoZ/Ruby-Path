@@ -21,4 +21,3 @@ if out_of_guesses
 else 
     puts "You won"
 end
-
